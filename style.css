@@ -1,0 +1,30 @@
+h1{
+    /* продаж вживаних машин */
+
+position: absolute;
+width: 4630px;
+height: 813px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 300px;
+line-height: 363px;
+
+color: #000000;
+
+
+}
+.img1{
+    /* image 1 */
+
+position: absolute;
+width: 2646px;
+height: 3528px;
+left: 571px;
+top: 611px;
+
+background: url(image.png);
+border-radius: 307px;
+
+}
